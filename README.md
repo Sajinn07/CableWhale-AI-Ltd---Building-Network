@@ -1,2 +1,4 @@
 # CableWhale-AI-Ltd---Building-Network
 This is my first project which features a basic network topology of a small company that develops its own AI model. The network was made using cisco packet tracer and consists of VLAN's configured for several departments with Inter-VLAN Routing. The network also uses several protocols such as DHCP, SSH and OSPF
+
+<img width="1105" height="670" alt="image" src="https://github.com/user-attachments/assets/878ed012-5d39-4889-bb72-4c6a11b50379" />
