@@ -1,4 +1,4 @@
-# <img width="800" height="250" alt="cablewhale ai banner" src="https://github.com/user-attachments/assets/09e88188-8116-4fc8-99a6-b1170d0acc6f" />
+#              <img width="800" height="250" alt="cablewhale ai banner" src="https://github.com/user-attachments/assets/09e88188-8116-4fc8-99a6-b1170d0acc6f" />
 
 
 This is my first networking project which features a basic network topology of a small company that develops its own AI model. The network was made using Cisco Packet Tracer and consists of VLAN's configured for several departments with Inter-VLAN Routing. The network also uses several protocols such as DHCP, SSH and OSPF
