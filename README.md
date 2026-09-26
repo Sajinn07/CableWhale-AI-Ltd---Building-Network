@@ -1,4 +1,4 @@
-# <img width="1365" height="250" alt="cablewhale ai banner" src="https://github.com/user-attachments/assets/f0c99bb3-0c70-4cae-bd93-5142fe227c4b" />
+# CableWhale AI Ltd
 
 
 
